@@ -89,4 +89,4 @@ title: Steffen Andre Pettersen - CV
 
 ---
 
-[PDF versjon av CV]( {{ site.baseurl }}/assets/files/cv.pdf )
+[PDF versjon av CV]( {{ site.baseurl }}/assets/files/CV.pdf )
