@@ -86,3 +86,7 @@ title: Steffen Andre Pettersen - CV
 - Programmering: Python, Java, Kotlin
 - Verktøy: Git, VSCode, IntelliJ
 - Språk: Norsk (morsmål), Engelsk (flytende)
+
+---
+
+[PDF versjon av CV]( {{ site.baseurl }}/assets/files/cv.pdf )
