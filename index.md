@@ -81,6 +81,11 @@ title: Steffen Andre Pettersen - CV
 
 ---
 
+### Prosjekter
+
+- **Arkham Horror Weakness Drawer**
+  Laget en web-basert app med Python og Streamlit for å trekke og filtrere kort til kortspillet Arkham LCG
+  [GitHub Repo](https://github.com/SteffenAP/arkham-weakness-drawer) | [Live App](https://arkham-weakness-drawer.streamlit.app/)
 ## Ferdigheter
 
 - Programmering: Python, Java, Kotlin
